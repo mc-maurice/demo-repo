@@ -7,3 +7,7 @@ add   --> Track your files and changes in Git.
 commit--> Save your files in Git.
 push  --> Upload Git commits to a remote repo like Github.
 pull  --> Download changes from remote repo to your local machine.
+
+## Subheader
+Other commands are:
+status --> Its shows the files that have been modified or added and yet to be committed
